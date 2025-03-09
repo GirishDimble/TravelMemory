@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  travelmemory:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-09T12:22:21.3944214+05:30"
+    description: A Helm chart for deploying the application
+    digest: 57f0e8db1d4d0e1dd4b92c449b310245d7e54165791e470cd8003240874bb16a
+    name: travelmemory
+    type: application
+    urls:
+    - travelmemory-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-09T12:22:21.0908202+05:30"
